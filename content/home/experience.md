@@ -1,0 +1,79 @@
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Research assistant
+    company: University of Stirling
+    #company_logo: stiruni
+    date_start: '2021-02-14'
+    date_end: ''
+    description: |2-
+        
+        * Evo psych project on care-giving in primates
+        * Chimpanzee face stimuli using WebMorph and Photoshop
+        * Eye tracking study design and execution with chimpanzees
+        * Analysing eye gaze data
+        
+
+  - title: Research assistant
+    company: University of Glasgow
+    date_start: '2020-06-01'
+    date_end: '2020-09-01'
+    description: |2-
+        
+        * Delineating 3D facial images using Meshlab and Morphanalyser
+        
+
+  - title: Tutor
+    company: University of Glasgow
+    date_start: '2019-09-01'
+    date_end: '2019-12-01'
+    description: |2-
+        
+        * Introduction to social psychology 
+        * 2-hour lectures with in-class exercises
+
+  - title: Research assistant
+    company: University of Glasgow
+    date_start: '2019-02-01'
+    date_end: '2020-12-01'
+    description: |2-
+        
+        * VisNET project on networking and gender inequalities in engineering academics
+        * Interviewing
+        * 3D visualisations of networking data
+  
+  - title: Research assistant
+    company: University of Glasgow
+    date_start: '2018-07-01'
+    date_end: '2018-11-01'
+    description: |2-
+        
+        * Impact study on education and deprivation in Scotland
+        * Correlational analyses of school outcomes and SIMD data
+
+  
+        
+design:
+  columns: '2'
+---
