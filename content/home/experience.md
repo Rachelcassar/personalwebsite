@@ -29,10 +29,10 @@ experience:
     date_end: ''
     description: |2-
         
-        * Evo psych project on care-giving in primates
-        * Chimpanzee face stimuli using WebMorph and Photoshop
-        * Eye tracking study design and execution with chimpanzees
-        * Analysing eye gaze data
+        * Project on care-giving in humans and non-primates
+        * Human and non-primate face stimuli using WebMorph and Photoshop
+        * Eye tracking study design and execution
+        * Analysing eye gaze and pupil size data
         
 
   - title: Research assistant
@@ -50,8 +50,7 @@ experience:
     date_end: '2019-12-01'
     description: |2-
         
-        * Introduction to social psychology 
-        * 2-hour lectures with in-class exercises
+        * 3 lectures on 'Introduction to social psychology'
 
   - title: Research assistant
     company: University of Glasgow
