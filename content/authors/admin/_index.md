@@ -22,7 +22,7 @@ interests:
 - Open science
 organizations:
 - name: University of Glasgow
-role: PhD Researcher
+role: PhD Student
 social:
 - icon: envelope
   icon_pack: fas
