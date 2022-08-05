@@ -22,11 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research support officer
+    company: University of Malta
+    date_start: '2022-07-18'
+    date_end: ''
+    description: |2-
+        
+        * Project on neural connections and behavioural data
+        * MRI analysis
+        * Multimodal multiple regression modelling
+        
   - title: Research assistant
     company: University of Stirling
     #company_logo: stiruni
     date_start: '2021-02-14'
-    date_end: ''
+    date_end: '2022-08-31'
     description: |2-
         
         * Project on care-giving in humans and non-primates
