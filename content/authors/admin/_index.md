@@ -14,7 +14,7 @@ education:
   - course: Bachelor of Accountancy
     institution: University of Malta
     year: 2005 - 2010    
-email: "rachel.cassar@um.ed.mt"
+email: "rachel.cassar@um.edu.mt"
 highlight_name: true
 interests:
 - Experimental psychology
