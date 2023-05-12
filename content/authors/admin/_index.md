@@ -25,7 +25,7 @@ interests:
 - MRI analysis
 organizations:
 - name: University of Malta
-role: Research Support Officer
+role: Research Support Officer III
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,10 +46,10 @@ superuser: true
 title: Rachel Cassar
 ---
 
-I am a newly appointed Research Support Officer within the University of Malta's department of Physiology and Biochemistry. My role will see me learning MRI analysis and software such as Matlab and MRtrix, in order to investigate connections between neural and behavioural data.
+I am a Research Support Officer III in neuroscience within the University of Malta's department of Physiology and Biochemistry. For the past year I have been working on a collaborative project analysing whole brain scans using quantitative MRI metrics.
 
-Until recently, I was a psychology PhD student and member of the Face Research Lab at the University of Glasgow. I have submitted my thesis and am now (Aug 2022) anticipating a date for my viva. My PhD investigates the methodologies and theoretical explanations used in the study of perceived facial similarity in mate choice. My research interests include experimental psychology, evolutionary psychology, kin recognition, perception, as well as gender and social inequalities. 
+I recently completed my PhD in psychology from the University of Glasgow where I was also a member of the Face Research Lab. My PhD investigated methodologies and theoretical explanations used in the study of perceived facial similarity in mate choice. My research interests include experimental psychology, evolutionary psychology, kin recognition, perception, as well as gender and social inequalities. 
 
-Throughout my PhD I worked part-time as a research assistant on projects on face perception, education and gender inequalities as well as care-giving in human and non-human primates (chimpanzees). I am proficient at creating face stimuli using WebMorph, MorphAnalyser and Photoshop and have created both human (2D and 3D) and non-human primate (2D) facial stimuli for use in online and eye tracking studies. I use R to conduct all data wrangling and analyses, most of which are reproducible and openly available.
+Throughout my PhD I worked part-time as a research assistant on projects involving face perception, education and gender inequalities as well as care-giving in human and non-human primates (chimpanzees). I am proficient at creating face stimuli using WebMorph, MorphAnalyser and Photoshop and have created both human (2D and 3D) and non-human primate (2D) facial stimuli for use in online and eye tracking studies. I use R to conduct all data wrangling and analyses, most of which are reproducible and openly available.
 
-I first studied accountancy and finance in Malta, before switching to a career in science in Glasgow. I have two dogs who occupy most of my heart and free time. I also enjoy learning about different cultures, travelling, design, yoga, knitting and programming in R. I have recently moved to Malta to start a new role which will soon be my first postdoctoral position held. Get in touch for any questions or research chats :)
+I first studied accountancy and finance in Malta, before switching to a career in science in Glasgow. I have two dogs who occupy most of my heart and free time. I also enjoy learning about different cultures, travelling, design, yoga, knitting and programming in R. Get in touch for any questions or research chats :)
