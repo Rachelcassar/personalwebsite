@@ -2,9 +2,9 @@
 bio:
 education:
   courses:
-  - course: PhD in Psychology 
+  - course: PhD in Psychology and Neuroscience
     institution: University of Glasgow
-    year: 2017 -
+    year: 2017 - 2023
   - course: MSc Psychological Studies
     institution: University of Glasgow
     year: 2016 - 2017
@@ -17,12 +17,12 @@ education:
 email: "rachel.cassar@um.edu.mt"
 highlight_name: true
 interests:
-- Experimental psychology
-- Perception
+- Data analysis
 - Open science
-- Faces
+- Behavioural science
+- Social inequalities
 - Computer programming
-- MRI analysis
+- Evolutionary psychology
 organizations:
 - name: University of Malta
 role: Research Support Officer III
@@ -32,10 +32,6 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/_rachelcassar
 - icon: github
   icon_pack: fab
   link: https://github.com/CassarR
