@@ -20,11 +20,11 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: "rachel.cassar@um.edu.mt"
+email: "rachel.cassar87@gmail.com"
 address:
-  street: Faculty of Media and Knowledge Sciences, University of Malta
-  city: Msida
-  postcode: 'MSD 2080'
+  street: 
+  city: Birkirkara
+  postcode: 
   country: Malta
   country_code: MT
 
@@ -51,7 +51,6 @@ highlight: true
 highlight_languages:
   - r
   - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
