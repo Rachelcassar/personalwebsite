@@ -2,6 +2,10 @@
 bio:
 education:
   courses:
+  - IBM Databases and SQL for Data Science with Python
+  - IBM Data Science Methodology
+  - IBM Python Project for Data Science
+  - IBM Python for Data Science, AI & Development
   - course: PhD in Psychology and Neuroscience
     institution: University of Glasgow
     year: 2017 - 2023
@@ -42,9 +46,11 @@ superuser: true
 title: Rachel Cassar
 ---
 
-I am a Research Support Officer III with the department of Cognitive Science at the University of Malta. I am currently working on a project investigating the evolution of the Maltese language using audio recordings from a language production experiment. Before this role I held a similar position with the University's department of Physiology and Biochemistry where I worked on a collaborative project analysing whole brain scans using quantitative MRI metrics.
+I am currently a Statistician and former academic in the field of Pyschology, or rather, Behavioural Science. I first created this page as a place to showcase my research interests, papers and contact information. My intention now is to maintain this website as an online CV, and eventually a place to share my portfolio of data analysis projects that I am working on in my own time.
 
-In 2023 I graduated with a PhD in Psychology and Neuroscience from the University of Glasgow, where I was also a member of the Face Research Lab. My PhD investigated methodologies and theoretical explanations used in the study of perceived facial similarity in mate choice. My research interests include experimental psychology, evolutionary psychology, kin recognition, perception, as well as gender and social inequalities. 
+Research Support Officer III with the department of Cognitive Science at the University of Malta. I am currently working on a project investigating the evolution of the Maltese language using audio recordings from a language production experiment. Before this role I held a similar position with the University's department of Physiology and Biochemistry where I worked on a collaborative project analysing whole brain scans using quantitative MRI metrics.
+
+In 2023 I completed a PhD in Psychology and Neuroscience from the University of Glasgow, where I was also a member of the Face Research Lab. My PhD investigated methodologies and theoretical explanations used in the study of perceived facial similarity in mate choice. My research interests include experimental psychology, evolutionary psychology, kin recognition, perception, as well as gender and social inequalities. 
 
 Throughout my PhD I worked part-time as a research assistant on projects involving face perception, education and gender inequalities as well as care-giving in human and non-human primates (chimpanzees). I am proficient at creating face stimuli using WebMorph, MorphAnalyser and Photoshop and have created both human (2D and 3D) and non-human primate (2D) facial stimuli for use in online and eye tracking studies. I use R to conduct all data wrangling and analyses, some of which are reproducible and openly available.
 
