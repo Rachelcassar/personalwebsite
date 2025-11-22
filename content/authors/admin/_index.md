@@ -22,7 +22,7 @@ email: "rachel.cassar@um.edu.mt"
 highlight_name: true
 interests:
 - Data analysis and visualisation
-- Computer programming: R, Python
+- Computer programming, R, Python
 - Open science
 - Behavioural science
 organizations:
