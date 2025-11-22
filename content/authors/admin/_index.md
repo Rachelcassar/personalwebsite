@@ -21,15 +21,13 @@ courses:
 email: "rachel.cassar@um.edu.mt"
 highlight_name: true
 interests:
-- Data analysis
+- Data analysis and visualisation
+- Computer programming: R, Python
 - Open science
 - Behavioural science
-- Social inequalities
-- Computer programming
-- Evolutionary psychology
 organizations:
-- name: University of Malta
-role: Research Support Officer III
+- name: National Statistics Office Malta
+role: Statistician
 social:
 - icon: envelope
   icon_pack: fas
@@ -38,7 +36,7 @@ social:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/CassarR
+  link: https://github.com/Rachelcassar
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rachel-cassar/
