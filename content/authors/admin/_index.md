@@ -1,7 +1,7 @@
 ---
 bio:
 education:
-  courses:
+courses:
   - IBM Databases and SQL for Data Science with Python
   - IBM Data Science Methodology
   - IBM Python Project for Data Science
