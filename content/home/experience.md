@@ -22,10 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Statistician
+    company: National Statistics Office
+    date_start: '2025-05-05'
+    date_end: ''
+    description: |2-
+        
+        * Automating internal processes
+        * Vetting and validating data collected via the business survey
+
   - title: Research support officer III
     company: University of Malta
     date_start: '2024-01-02'
-    date_end: ''
+    date_end: '2025-05-01'
     description: |2-
         
         * Project on the evolution of the Maltese language
@@ -39,7 +48,8 @@ experience:
     description: |2-
         
         * Project on neural connections and behavioural data
-        * MRI analysis
+        * MRI quantiative metrics
+        * Analysis using Matlab, Python, R
         * Multimodal multiple regression modelling
 
   - title: Research assistant
@@ -70,7 +80,7 @@ experience:
     date_end: '2019-12-01'
     description: |2-
         
-        * 3 lectures on 'Introduction to social psychology'
+        * Lectures on 'Introduction to social psychology'
 
   - title: Research assistant
     company: University of Glasgow
@@ -79,8 +89,9 @@ experience:
     description: |2-
         
         * VisNET project on networking and gender inequalities in engineering academics
-        * Interviewing
-        * 3D visualisations of networking data
+        * Qualitative study
+        * Motivational interviews
+        * Webscraping script using R
   
   - title: Research assistant
     company: University of Glasgow
@@ -89,7 +100,8 @@ experience:
     description: |2-
         
         * Impact study on education and deprivation in Scotland
-        * Correlational analyses of school outcomes and SIMD data
+        * Socioeconomic data
+        * Correlational analyses of school outcomes and SIMD (measure for deprivation) on R
 
   
         
